@@ -13,7 +13,7 @@ I am a dedicated and innovative web developer with a passion for leveraging tech
 - Web Development | API Integration | Database Management
 
  🚀 Current Focus
-- Developing a task manager app
+- Developing task manager apps
 - Learning Azure AI and document intelligence
 - Exploring fundamental AI concepts
 - Delving into pair programming
@@ -22,6 +22,7 @@ I am a dedicated and innovative web developer with a passion for leveraging tech
 [lighthouse-data-initiative,resourcefull-query-practice]
 
  📊 GitHub Stats
+ 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorcus7&show_icons=true&theme=radical)
 
  📫 How to reach me
